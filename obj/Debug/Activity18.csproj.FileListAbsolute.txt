@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity18\bin\Debug\Activity18.exe.config
+C:\Users\HP\source\repos\Activity18\bin\Debug\Activity18.exe
+C:\Users\HP\source\repos\Activity18\bin\Debug\Activity18.pdb
+C:\Users\HP\source\repos\Activity18\obj\Debug\Activity18.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity18\obj\Debug\Activity18.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity18\obj\Debug\Activity18.exe
+C:\Users\HP\source\repos\Activity18\obj\Debug\Activity18.pdb
